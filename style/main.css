@@ -4,3 +4,17 @@ body{
     align-items: center;
     background-color: rgb(33, 194, 12);
 }
+.viewsoldier{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+
+}
+.viewsoldier img{
+    width: 100%;
+    height: 100%;
+    border: 5px solid blue;
+    border-radius: 20px;
+}
